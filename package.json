@@ -1,0 +1,22 @@
+{
+  "name": "pop-chat",
+  "version": "0.0.1",
+  "description": "A simple express and socket based chat app that connects two random people and allows them to chat anonymously.",
+  "main": "main.js",
+  "scripts": {
+    "test": "start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kaykayyali/Pop-Chat.git"
+  },
+  "keywords": [
+    "chat"
+  ],
+  "author": "Kaysser E Kayyali, John Fox",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kaykayyali/Pop-Chat/issues"
+  },
+  "homepage": "https://github.com/kaykayyali/Pop-Chat#readme"
+}
